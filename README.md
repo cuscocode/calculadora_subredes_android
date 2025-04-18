@@ -1,16 +1,16 @@
-# Calculadora de Subredes
+# 📡 Calculadora de Subredes
 
-Aplicación Android desarrollada para facilitar el cálculo de subredes a partir de una dirección IP y máscara de red. Ideal para estudiantes, técnicos o profesionales que trabajan con redes y necesitan una herramienta rápida y eficiente.
+Aplicación Android desarrollada para facilitar el cálculo de subredes a partir de una dirección IP y una máscara de red. Ideal para estudiantes, técnicos o profesionales que trabajan con redes y necesitan una herramienta rápida, clara y eficiente.
 
 ## 📱 Características
 
-- Cálculo de subredes basado en IP y máscara.
-- Interfaz sencilla y amigable.
-- Navegación intuitiva con pestañas.
-- Resultados detallados con dirección de red, primer host, último host, y broadcast.
+- Cálculo de subredes basado en dirección IP y máscara.
+- Interfaz sencilla, amigable e intuitiva.
+- Navegación fluida mediante pestañas.
+- Resultados detallados: dirección de red, primer host, último host, y dirección de broadcast.
 - Compatible con versiones antiguas de Android (minSdk 14).
 
-## 🧑‍💻 Tecnologías Usadas
+## 🧑‍💻 Tecnologías Utilizadas
 
 - Java
 - Android SDK
@@ -19,30 +19,27 @@ Aplicación Android desarrollada para facilitar el cálculo de subredes a partir
 
 ## 🚀 Capturas de Pantalla
 
-| Pantalla Principal | Resultados | Navegación |
-|--------------------|------------|------------|
-| ![Pantalla Principal](captura/guia\ usuario_1.png) | ![Resultados](captura/guia\ de\ usuario_2.png) | ![Navegación](captura/guia_usuario_3.png) |
+## 🚀 Capturas de Pantalla
 
-| Cálculo en Proceso | Más Resultados | Más Funciones |
-|--------------------|----------------|----------------|
-| ![Proceso](captura/guia_usuario_4.png) | ![Detalle](captura/guia_usuario5.png) | ![Final](captura/guia_usuario_6.png) |
+|  |  |  |
+|--|--|--|
+| ![](captura/guia%20usuario_1.png) | ![](captura/guia%20de%20usuario_2.png) | ![](captura/guia_usuario_3.png) |
+| ![](captura/guia_usuario_4.png) | ![](captura/guia_usuario5.png) | ![](captura/guia_usuario_6.png) |
 
-## 📄 Cómo Usar
+## 📄 ¿Cómo Usar?
 
 1. Ingresa una dirección IP válida.
 2. Selecciona la máscara de red deseada.
-3. Presiona calcular.
+3. Presiona **Calcular**.
 4. ¡Listo! Se mostrará toda la información relacionada con la subred.
-
-
 
 ## 🛠 Requisitos
 
 - Android Studio Arctic Fox o superior.
-- SDK mínimo: 14
+- SDK mínimo: 14  
 - SDK objetivo: 33
 
 ## 🧠 Créditos
 
-Desarrollado por Raul Hacho Cutipa.  
+Desarrollado por **Raul Hacho Cutipa**.  
 Proyecto educativo y práctico para el curso de Informática en redes.
