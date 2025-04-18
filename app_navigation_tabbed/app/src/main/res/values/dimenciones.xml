@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_margen_horizontal">16dp</dimen>
+    <dimen name="activity_margen_vertical">16dp</dimen>
+    <dimen name="nav_cabecera_espacio_vertical">0dp</dimen>
+    <dimen name="activyty_cabera_altura">400dp</dimen>
+    <dimen name="fab_margen">16dp</dimen>
+
+
+</resources>

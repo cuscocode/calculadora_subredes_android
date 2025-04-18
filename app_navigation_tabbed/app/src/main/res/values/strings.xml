@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_nombre">Calculadora de Subredes</string>
+
+    <string name="navegador_abrir_drawer">Abrir Navegador</string>
+    <string name="navegador_cerar_drawer">Cerrar Navegador</string>
+    <string name="nav_titulo_cabecera">app_navigation_tabbed</string>
+    <string name="nav_subtitulo_cabecera">app_navigation_tabbed@app_navigation_tabbed.com</string>
+    <string name="nav_cebecera_desc">Navegador</string>
+
+
+    <string name="menu_direccionamiento_ip">Direccionamiento IP</string>
+    <string name="menu_inicio">Calculadora De Subredes</string>
+    <string name="menu_binarios">Conv.binario y Decimal</string>
+    <string name="menu_configuracion">Configuraciones</string>
+    <string name="menu_hacerca_de">acerca de</string>
+    <string name="menu_host">Obtener Direccion y Host Indice</string>
+
+    <string name="menu_text_pregunta_usuario">¿como funciona?</string>
+
+
+    <!-- ====================================================================================-->
+    <string name="texto_ip">Direccion Ip</string>
+    <string name="texto_vacio"></string>
+    <string name="text_ip1">192</string>
+    <string name="text_ip2">168</string>
+    <string name="text_ip3">1</string>
+    <string name="text_ip4">0</string>
+    <string name="text_prefijo">24</string>
+    <string name="text_maquina_total">1677214</string>
+    <string name="text_punto">.</string>
+    <string name="text_eslays">/</string>
+    <string name="btn_calcular">Calcular</string>
+    <string name="label_n_sudred">Calcular La Subred Al Que Pertenece Una Determinada IP</string>
+    <string name="label_mascara">prefijo de la mascara modificada:</string>
+
+    <string name="btn_dialogo">resolver</string>
+    <string name="tv_titulo">Ingrese El Indice De La Sudred Que Desea Hallar</string>
+    <string name="tv_formula">Usar La Formula:</string>
+
+
+    <string name="label_indice_N_de_ip">Obtener El N° De Host De Un Equipo, Dada Su Direccion Ip</string>
+    <string name="label_direcion_ip_de_N">Obtener La Direccion Ip De Un N° De Host Determinado</string>
+    <string name="label_mascara_2">Prefijo De La Mascara:</string>
+    <string name="label_N_encontrar_host">N° De Host A Encontrar:</string>
+
+    <string name="label_decimal_a_binsrio">Convertir De Decimal A Binario</string>
+    <string name="label_binario_a_decimal">Convertir De Binario A Decimal</string>
+    <string name="texto_binario">11111111</string>
+
+
+
+
+</resources>

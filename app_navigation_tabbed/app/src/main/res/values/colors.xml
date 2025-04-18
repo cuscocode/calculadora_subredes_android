@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#040D5C</color>
+    <color name="colorPrimaryDark">#FA0C61</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="colorNavegador">#9C040D5C</color>
+    <color name="color_fondo_dialogo">#003B3B3C</color>
+
+    <color name="color_blanco">#FFFFFF</color>
+
+</resources>
+

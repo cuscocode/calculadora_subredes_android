@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+<group android:checkableBehavior="single">
+    <item
+        android:id="@+id/nav_menu_direccionamiento"
+        android:icon="@drawable/direccionamiento_ip"
+        android:title="@string/menu_direccionamiento_ip" />
+    <item
+        android:id="@+id/nav_menu_inicio"
+        android:icon="@drawable/calc_subredes"
+        android:title="@string/menu_inicio" />
+
+    <item
+        android:id="@+id/nav_menu_host"
+        android:icon="@drawable/direccion_host"
+        android:title="@string/menu_host" />
+    <item
+        android:id="@+id/nav_menu_binario"
+        android:icon="@drawable/binario"
+        android:title="@string/menu_binarios"/>
+
+    <item
+        android:id="@+id/nav_menu_hacer_de"
+        android:icon="@drawable/icon_hacerca"
+        android:title="@string/menu_hacerca_de"/>
+
+
+
+
+</group>
+
+
+
+</menu>
